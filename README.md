@@ -32,10 +32,10 @@ Upload the dist folder to ipfs. give it a name you will remember, like `<tokensy
 ## tip jar
 If you find this useful and want to throw me a little something-something:
 
-ETH: 0x92DCb22BC7F2EcD36c82D0bEAC84bC8915C71dCB
-MATIC: 0x0d38399B39e8785019757aD63470AeB55C29ccEf
-BNB: 0xe81F8d3F36842806Df78CFb399402b9613A1a0eb
-BTC: bc1q0f6wttdthk8968wd4v4f90a44e936gz43fc5e9
+- ETH: 0x92DCb22BC7F2EcD36c82D0bEAC84bC8915C71dCB
+- MATIC: 0x0d38399B39e8785019757aD63470AeB55C29ccEf
+- BNB: 0xe81F8d3F36842806Df78CFb399402b9613A1a0eb
+- BTC: bc1q0f6wttdthk8968wd4v4f90a44e936gz43fc5e9
 
 Burning to tip in another crypto or token that isn't listed? DM me :-)
 
